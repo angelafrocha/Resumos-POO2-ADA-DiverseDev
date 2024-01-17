@@ -42,7 +42,7 @@ Nesta camada é onde fica a declaração das “Portas”/Interfaces (Adapters) 
 Ao adotar a arquitetura hexagonal, os desenvolvedores podem criar aplicações que possuem as seguintes características:
 
 - **Facilmente Testáveis:** As regras de negócio são isoladas da infraestrutura, facilitando os testes sem depender de componentes externos.
-- **Evoluíveis:** A infraestrutura pode ser alterada sem afetar o domínio, facilitando a evolução da aplicação.
+- **Escaláveis:** A infraestrutura pode ser alterada sem afetar o domínio, facilitando a evolução da aplicação.
 - **Flexíveis:** A aplicação pode ser facilmente adaptada a diferentes ambientes e necessidades.
 
 ## Fontes
