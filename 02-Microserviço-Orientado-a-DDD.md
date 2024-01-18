@@ -50,3 +50,6 @@ A camada de aplicativo depende do domínio e da infraestrutura e a infraestrutur
 
 ![Dependencia entre camadas](https://learn.microsoft.com/pt-br/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/media/ddd-oriented-microservice/ddd-service-layer-dependencies.png)
 
+## Fonte
+https://learn.microsoft.com/pt-br/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice
+
