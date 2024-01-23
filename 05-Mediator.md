@@ -53,4 +53,6 @@ MediatR é uma biblioteca .NET que implementa o padrão Mediator.
 
 # Fontes
 https://medium.com/jundevelopers/mediator-pattern-com-mediatr-asp-net-core-2-2-6d8d2e3dc3c5
+
 https://learn.microsoft.com/pt-br/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/microservice-application-layer-implementation-web-api
+
