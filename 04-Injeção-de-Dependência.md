@@ -24,8 +24,11 @@ Ao escolher entre AddSingleton, AddScoped e AddTransient, deve-se considerar o c
 
 
 # Fontes
-https://www.youtube.com/watch?v=uyOJ2jjBtBs
+https://www.youtube.com/watch?v=uyOJ2jjBtBs 
+
 https://learn.microsoft.com/pt-br/dotnet/core/extensions/dependency-injection
+
 https://programadriano.medium.com/net-inje%C3%A7%C3%A3o-de-depend%C3%AAncia-c7475a93b5cb
+
 https://www.treinaweb.com.br/blog/entendendo-injecao-de-dependencia
 
