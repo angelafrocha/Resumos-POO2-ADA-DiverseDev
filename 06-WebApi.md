@@ -74,7 +74,10 @@ As boas práticas para a construção de APIs são:
 
 
 # Fontes
-https://www.c-sharpcorner.com/article/asp-net-core-5-0-web-api/
+https://www.c-sharpcorner.com/article/asp-net-core-5-0-web-api/ 
+
 https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-8.0&tabs=visual-studio
+
 https://marcionizzola.medium.com/criando-a-primeira-api-com-net-core-54181b1f5f59
+
 https://blog.treblle.com/mastering-net-web-api-best-practices-for-building-powerful-apis/
