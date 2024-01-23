@@ -63,6 +63,8 @@ Os cinco princípios SOLID são:
 - Dependency Inversion Principle (DIP): Classes de alto nível não devem depender de classes de baixo nível, mas sim de abstrações.
 
 # Fontes
-https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/
+https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/ 
+
 https://learn.microsoft.com/pt-br/archive/msdn-magazine/2014/may/csharp-best-practices-dangers-of-violating-solid-principles-in-csharp
+
 https://khalilstemmler.com/wiki/dependency-inversion/
